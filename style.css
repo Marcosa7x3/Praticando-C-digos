@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.caixa{
+    width: 30vw;
+    height: 50vh;
+    background-color: blue;
+    border-radius: 180px;
+    margin-top: 140px;
+    margin-left: 500px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    padding: 125px;
+}
+
+body{
+    background-color: yellowgreen;
+}
